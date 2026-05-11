@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "",
+    "password": "qwerty742",
     "type": "offline"
   },
   "server": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "омайгад",
+        "хамамм!",
+        "мелстрой крут!"
       ]
     },
     "chat-log": true,
